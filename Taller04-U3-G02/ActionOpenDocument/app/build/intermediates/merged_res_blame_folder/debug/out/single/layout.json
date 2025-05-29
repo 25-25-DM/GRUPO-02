@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.android.actionopendocument.app-mergeDebugResources-20:/layout/activity_login.xml",
+        "source": "com.example.android.actionopendocument.app-main-23:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.android.actionopendocument.app-mergeDebugResources-20:/layout/activity_main_real.xml",
+        "source": "com.example.android.actionopendocument.app-main-23:/layout/activity_main_real.xml"
+    },
+    {
+        "merged": "com.example.android.actionopendocument.app-mergeDebugResources-20:/layout/fragment_pdf_renderer_basic.xml",
+        "source": "com.example.android.actionopendocument.app-main-23:/layout/fragment_pdf_renderer_basic.xml"
+    }
+]

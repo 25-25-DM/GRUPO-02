@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="last_user">Alexis Hurtado</string>
+    <string name="login_time">29/05/2025 14:04:39</string>
+    <set name="login_history">
+        <string>Darío vergara|29/05/2025 14:13:22</string>
+        <string>Dario Vergara|29/05/2025 14:26:25</string>
+        <string>Steven Quinatoa|29/05/2025 14:13:59</string>
+        <string>Gabriela Rodríguez |29/05/2025 14:13:40</string>
+        <string>Gabriela Rodríguez|29/05/2025 14:42:18</string>
+        <string>Alexis Hurtado|29/05/2025 14:42:48</string>
+        <string>Dario Vergara|29/05/2025 14:41:55</string>
+        <string>Steven Quinatoa|29/05/2025 14:42:38</string>
+    </set>
+    <string name="username">vergara</string>
+</map>
